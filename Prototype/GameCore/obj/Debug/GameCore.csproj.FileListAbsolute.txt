@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\progVStudio\Prototype\GameCore\obj\Debug\GameCore.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\progVStudio\Prototype\GameCore\obj\Debug\GameCore.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\progVStudio\Prototype\GameCore\bin\Debug\GameCore.dll
+C:\Users\admin\Documents\progVStudio\Prototype\GameCore\bin\Debug\GameCore.pdb
+C:\Users\admin\Documents\progVStudio\Prototype\GameCore\obj\Debug\GameCore.dll
+C:\Users\admin\Documents\progVStudio\Prototype\GameCore\obj\Debug\GameCore.pdb
