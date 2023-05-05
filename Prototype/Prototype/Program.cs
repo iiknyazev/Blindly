@@ -70,7 +70,9 @@ namespace GameCore
             CoreManager coreManager = new CoreManager(map);
             while(true)
             {
-                Console.Clear();
+                //Console.Clear();
+                Console.CursorLeft = 0;
+                Console.CursorTop = 0;
                 Print.PrintGameState(
                     coreManager._LogicManager.Map, 
                     coreManager._LogicManager.CellBuffer, 
